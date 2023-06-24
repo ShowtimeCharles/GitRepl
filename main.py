@@ -6,5 +6,5 @@ print(calculator.x)
 print("Hi again")
 
 
-def foo(x):
-  return x
+def add(x,y):
+  return x + y
